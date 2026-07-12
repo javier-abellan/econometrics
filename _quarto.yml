@@ -1,0 +1,39 @@
+project:
+  type: book
+
+lang: en
+
+book:
+  title: "Econometrics"
+  author: "Javier Abellán"
+
+  chapters:
+    - index.qmd
+    - intro.qmd
+
+ #   - part: "Parte I. Microeconomía"
+ #     chapters:
+
+#    - part: "Parte II. Macroeconomía"
+#      chapters:
+#        - macro_produccion_empleo.qmd
+#        - macro_precios_balanza.qmd
+#        - consumo_ahorro_estado.qmd
+#        - finanzas.qmd
+#        - comercio_exterior.qmd
+
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: custom.css
+  pdf:
+    documentclass: scrreprt
+
+
+
