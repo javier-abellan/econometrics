@@ -16,6 +16,7 @@
     "section": "",
     "text": "1.1 Introduction\nThis is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.",
     "crumbs": [
+      "The Fundamentals of Regression Analysis",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
     ]
   },
@@ -26,6 +27,7 @@
     "section": "",
     "text": "1.1.1 Introduction\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. (USA) 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
     "crumbs": [
+      "The Fundamentals of Regression Analysis",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
     ]
   },
